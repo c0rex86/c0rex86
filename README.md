@@ -48,31 +48,51 @@ func main() {
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
 </p>
 
-### 📊 GitHub Статистика
+### 🔥 Метрики кода
 
 <p align="center">
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=c0rex86&show_icons=true&theme=midnight-purple&hide_border=true&locale=ru">
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0rex86&layout=compact&theme=midnight-purple&hide_border=true&locale=ru">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=c0rex86&theme=midnight_purple&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=c0rex86&theme=darkhub&no-frame=true&column=7" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=c0rex86&theme=midnight_purple&cache_seconds=1800" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=c0rex86&theme=midnight_purple&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=c0rex86&theme=midnight_purple&cache_seconds=1800" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=c0rex86&theme=midnight_purple&cache_seconds=1800&utcOffset=3" />
+</p>
+
+### 📊 GitHub Статистика
+
+<p align="center">
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=c0rex86&show_icons=true&theme=midnight-purple&hide_border=true&locale=ru&cache_seconds=1800" />
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0rex86&layout=compact&theme=midnight-purple&hide_border=true&locale=ru&cache_seconds=1800&langs_count=10&exclude_repo=dotfiles,scripts" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=c0rex86&theme=darkhub&no-frame=true&column=7&cache_seconds=1800" />
 </p>
 
 ### 📈 Активность
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=c0rex86&theme=midnight-purple&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=c0rex86&theme=midnight-purple&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=c0rex86&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=c0rex86&theme=react-dark&hide_border=true&area=true&custom_title=Граф%20активности&cache_seconds=1800" />
 </p>
 
 ### ⚡ Статистика вклада
 
 <div align="center">
-  <img src="https://github.com/c0rex86/c0rex86/blob/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+    <img alt="github-snake" src="dist/github-snake.svg" />
+  </picture>
 </div>
 
 <!-- Календарь активности -->
@@ -111,22 +131,6 @@ func main() {
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=c0rex86&theme=midnight_purple" />
   </div>
 </details>
-
-### 🔥 Метрики кода
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=c0rex86&theme=midnight_purple" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=c0rex86&theme=midnight_purple" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=c0rex86&theme=midnight_purple" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=c0rex86&theme=midnight_purple" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=c0rex86&theme=midnight_purple" />
-</p>
 
 ### 🤝 Связаться со мной
 
