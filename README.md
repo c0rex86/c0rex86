@@ -1,16 +1,153 @@
-## Hi there 👋
+<h2 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Привет, я c0re
+</h2>
 
-<!--
-**c0rex86/c0rex86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7B68EE&center=true&vCenter=true&width=435&lines=Backend+Developer;14+y.o.+programmer;Always+learning+new+things" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/Age-14-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20Development-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Russia-purple?style=for-the-badge" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 Обо мне
+
+```go
+package main
+
+type Developer struct {
+    Name        string
+    Age         int
+    Location    string
+    Role        string
+    Languages   []string
+    Company     string
+}
+
+func main() {
+    me := &Developer{
+        Name:      "c0re",
+        Age:       14,
+        Location:  "Russia",
+        Role:      "Backend Developer",
+        Languages: []string{"Java", "Go", "C++", "C"},
+        Company:   "altpay/beeverse",
+    }
+}
+```
+
+### 🛠️ Мой стек технологий
+
+<p align="center">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+</p>
+
+### 📊 GitHub Статистика
+
+<p align="center">
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=c0rex86&show_icons=true&theme=midnight-purple&hide_border=true&locale=ru">
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0rex86&layout=compact&theme=midnight-purple&hide_border=true&locale=ru">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=c0rex86&theme=darkhub&no-frame=true&column=7" />
+</p>
+
+### 📈 Активность
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=c0rex86&theme=midnight-purple&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=c0rex86&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+### ⚡ Статистика вклада
+
+<div align="center">
+  <img src="https://github.com/c0rex86/c0rex86/blob/output/github-contribution-grid-snake.svg" />
+</div>
+
+<!-- Календарь активности -->
+<div align="center">
+  <img src="https://github-contribution-calendar.vercel.app/api/?username=c0rex86&theme=midnight-purple&hide_border=true" />
+</div>
+
+<!-- Граф вкладов -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=c0rex86&theme=react-dark&hide_border=true&area=true&custom_title=Граф%20активности" />
+</div>
+
+<!-- Статистика коммитов -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=c0rex86&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=ru" />
+</div>
+
+<!-- Детальная статистика -->
+<details>
+  <summary>📊 Подробная статистика вкладов</summary>
+  
+  <br/>
+  
+  <!-- Статистика по времени суток -->
+  <div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=c0rex86&theme=midnight_purple&utcOffset=3" />
+  </div>
+  
+  <!-- Статистика по месяцам -->
+  <div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=c0rex86&theme=react-dark&hide_border=true&area=true&custom_title=Активность%20по%20месяцам" />
+  </div>
+  
+  <!-- Статистика по языкам в коммитах -->
+  <div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=c0rex86&theme=midnight_purple" />
+  </div>
+</details>
+
+### 🔥 Метрики кода
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=c0rex86&theme=midnight_purple" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=c0rex86&theme=midnight_purple" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=c0rex86&theme=midnight_purple" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=c0rex86&theme=midnight_purple" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=c0rex86&theme=midnight_purple" />
+</p>
+
+### 🤝 Связаться со мной
+
+<p align="center">
+  <a href="https://t.me/c0re_x64">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://tiktok.com/@c0rex86">
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" />
+  </a>
+  <a href="https://pgit.c0rex86.ru/c0re">
+    <img src="https://img.shields.io/badge/Forgejo-purple?style=for-the-badge&logo=gitea&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=c0rex86&color=blueviolet&style=for-the-badge" />
+</p>
+
+<!-- Дополнительные бейджи -->
+<p align="center">
+  <img src="https://img.shields.io/github/followers/c0rex86?style=for-the-badge&color=purple" />
+  <img src="https://img.shields.io/github/stars/c0rex86?style=for-the-badge&color=purple" />
+</p> 
