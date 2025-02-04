@@ -77,10 +77,6 @@ func main() {
 
 ### 📈 Активность
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=c0rex86&theme=midnight-purple&hide_border=true&locale=ru&date_format=j%20M%5B%20Y%5D&mode=weekly&fire=5C3EB3&ring=5C3EB3&currStreakLabel=5C3EB3" />
-</p>
-
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=c0rex86&theme=react-dark&hide_border=true&area=true&custom_title=Граф%20активности&cache_seconds=1800" />
