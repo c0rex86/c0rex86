@@ -75,28 +75,6 @@ func main() {
   <img src="https://github-profile-trophy.vercel.app/?username=c0rex86&theme=darkhub&no-frame=true&column=7&cache_seconds=1800" />
 </p>
 
-### 📈 Активность
-
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=c0rex86&theme=react-dark&hide_border=true&area=true&custom_title=Граф%20активности&cache_seconds=1800" />
-</p>
-
-### ⚡ Статистика вклада
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-    <img alt="github-snake" src="dist/github-snake.svg" />
-  </picture>
-</div>
-
-<!-- Календарь активности -->
-<div align="center">
-  <img src="https://github-contribution-calendar.vercel.app/api/?username=c0rex86&theme=midnight-purple&hide_border=true" />
-</div>
-
 <!-- Граф вкладов -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=c0rex86&theme=react-dark&hide_border=true&area=true&custom_title=Граф%20активности" />
@@ -126,7 +104,22 @@ func main() {
   <!-- Статистика по языкам в коммитах -->
   <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=c0rex86&theme=midnight_purple" />
-  </div>
+  </div>    A: gero server --port 6969, выбери другой порт
+
+    Q: Отваливается соединение
+    A: Gero сам восстановит при проблемах с сетью, но если постоянно - проверь фаерволы и NAT
+
+    Q: Нужно больше логов
+    A: Добавь -v в команду: gero client -v
+
+    Q: В логах кракозябры
+    A: Попробуй в другом терминале или LANG=en_US.UTF-8 gero ...
+
+    Q: Как удалить эту хрень?
+    A: sudo make uninstall из папки проекта или sudo rm -f /usr/local/bin/gero
+
+Настройка для параноиков
+Gero безопасен из коробки, но если тебе надо больше - смотри docs/advanced.md, там лежат примеры 
 </details>
 
 ### 🤝 Связаться со мной
