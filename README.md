@@ -48,28 +48,9 @@ func main() {
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
 </p>
 
-### 🔥 Метрики кода
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=c0rex86&theme=midnight_purple&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=c0rex86&theme=midnight_purple&cache_seconds=1800" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=c0rex86&theme=midnight_purple&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=c0rex86&theme=midnight_purple&cache_seconds=1800" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=c0rex86&theme=midnight_purple&cache_seconds=1800&utcOffset=3" />
-</p>
 
 
 
-<!-- Статистика коммитов -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=c0rex86&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=ru" />
-</div>
 
 
   <!-- Статистика по языкам в коммитах -->
