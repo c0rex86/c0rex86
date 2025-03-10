@@ -7,32 +7,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7B68EE&center=true&vCenter=true&width=435&lines=Backend+Developer;14+y.o.+programmer;Always+learning+new+things" alt="Typing SVG" />
 </p>
 
-### 👨‍💻 Обо мне
-
-```go
-package main
-
-type Developer struct {
-    Name        string
-    Age         int
-    Location    string
-    Role        string
-    Languages   []string
-    Company     string
-}
-
-func main() {
-    me := &Developer{
-        Name:      "c0re",
-        Age:       14,
-        Location:  "Russia",
-        Role:      "Backend Developer",
-        Languages: []string{"Java", "Go", "C++", "C"},
-        Company:   "altpay/beeverse",
-    }
-}
-```
-
 ### 🛠️ Мой стек технологий
 
 <p align="center">
