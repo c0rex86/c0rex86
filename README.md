@@ -7,12 +7,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7B68EE&center=true&vCenter=true&width=435&lines=Backend+Developer;14+y.o.+programmer;Always+learning+new+things" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Age-14-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Backend%20Development-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Russia-purple?style=for-the-badge" />
-</p>
-
 ### 👨‍💻 Обо мне
 
 ```go
@@ -48,15 +42,6 @@ func main() {
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
 </p>
 
-
-
-
-
-
-  <!-- Статистика по языкам в коммитах -->
-  <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=c0rex86&theme=midnight_purple" />
-  </div>
 
 ### 🤝 Связаться со мной
 
