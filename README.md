@@ -23,7 +23,7 @@
   <a href="https://t.me/c0re_x64">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://pgit.c0rex86.ru/c0re">
+  <a href="https://git.eternitytech.fun/c0re">
     <img src="https://img.shields.io/badge/Forgejo-purple?style=for-the-badge&logo=gitea&logoColor=white" />
   </a>
 </p>
